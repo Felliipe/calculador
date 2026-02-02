@@ -1,0 +1,5 @@
+{
+  "name": "FinanDia",
+  "description": "Um aplicativo de controle financeiro diário simples e eficiente. Substitua suas planilhas manuais com cálculos automáticos e armazenamento local.",
+  "requestFramePermissions": []
+}
